@@ -318,6 +318,9 @@ h1{
         width: 100% !important;
         margin: 16px 0;
     }
+    .foot>div>h3{
+        margin: 8px 0;
+    }
     .footer:first-child{
         order: 1;
     }
@@ -404,6 +407,9 @@ h1{
     .foot>div{
         width: 40% !important;
         margin: 16px 16px;
+    }
+    .foot>div>h3{
+        margin: 12px 0px;
     }
     .footer:first-child{
         order: 1;
